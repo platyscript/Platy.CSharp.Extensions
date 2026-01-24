@@ -4,6 +4,9 @@ using System.Runtime.CompilerServices;
 
 namespace Platy.CSharp.Extensions;
 
+/// <summary>
+///     Utilities method
+/// </summary>
 public class Utils
 {
 // Copyright (c) Microsoft Corporation. All rights reserved.

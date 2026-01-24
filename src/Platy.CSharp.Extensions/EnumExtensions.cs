@@ -5,6 +5,9 @@ using System.Reflection;
 
 namespace Platy.CSharp.Extensions;
 
+/// <summary>
+///     Enumeration type extension methods.
+/// </summary>
 public static class EnumExtensions
 {
   

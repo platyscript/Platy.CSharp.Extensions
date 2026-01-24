@@ -12,7 +12,7 @@
         <IncludeContentInPack>true</IncludeContentInPack>
         <RepositoryUrl>https://github.com/platyscript/Platy.CSharp.Extensions</RepositoryUrl>
         <PackageTags>C#, Extensions</PackageTags>
-        <Version>0.1.1</Version>
+        <Version>0.1.2</Version>
         <PackageReleaseNotes>
           * Net9
         </PackageReleaseNotes>
