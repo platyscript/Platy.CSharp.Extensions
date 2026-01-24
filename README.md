@@ -1,2 +1,2 @@
-# Platy.AdventureWorks.Entities
+# Platy.CSharp.Extensions
 A collection of extension methods for various commonly used C# classes such as String, Enum etc.
